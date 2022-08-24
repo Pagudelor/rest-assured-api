@@ -12,6 +12,8 @@ allure-results\*
 .iws
 ajcore*
 logging.txt
+.pb
+.xml
 
 # Log file
 *.log
