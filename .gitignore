@@ -37,3 +37,6 @@ target*
 *.png
 *.pdf
 
+target/surefire-reports/Cucumber.Options.TestRunner.txt
+target/surefire-reports/TEST-Cucumber.Options.TestRunner.xml
+.gitignore
